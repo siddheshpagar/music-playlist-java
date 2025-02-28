@@ -2,14 +2,6 @@ package com.group6.Cdac;
 
 public class MusicDoublyList 
 {
-//static class MusicTrack {
-		
-	
-		
-		//}
-	//}
-	
-	//declaring MusicDoubly fields
 	public MusicTrack head ;
 	private MusicTrack currentmusic;
 	
