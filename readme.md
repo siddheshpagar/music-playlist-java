@@ -69,3 +69,19 @@ music-playlist-java/
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+## 📷 Screenshots
+
+### 🎵 Main Menu
+![Main Menu](screenshots/menu.png)
+
+### ➕
+![performing action 1](screenshots/2nd.png)
+![performing action 2](screenshots/3rd.png)
+![performing action 1](screenshots/4th.png)
+![performing action 1](screenshots/5th.png)
+
+### 📜 Displaying Playlist
+![Displaying Playlist](screenshots/display-playlist.png)
+
+
