@@ -60,8 +60,12 @@ music-playlist-java/
 ```
 
 ## 👥 Contributors
-- **Your Name** (Project Creator)  
-- **Team Group 6**
+- **Siddhesh Suresh Pagar** (Project Creator)  
+
+## 📞 Contact Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siddheshpagar/)
+- 📸 [Instagram](https://www.instagram.com/iam__er_siiddh?igsh=MXdkamx6M2huM3A5dQ==)
+- 📞 **Phone:** +91 7021031478  
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
