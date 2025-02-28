@@ -20,8 +20,8 @@ The **Music Console App** is a Java-based command-line music playlist manager. I
 ### Steps to Run the Project:
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/music-playlist-project.git
-   cd music-playlist-project
+   git clone https://github.com/siddheshpagar/music-playlist-java.git
+   cd music-playlist-java
    ```
 2. **Open the project in Eclipse:**
    - Navigate to `File > Open Projects from File System > Import`.
@@ -48,7 +48,7 @@ Simply enter the corresponding number to execute a command.
 
 ## 🛠 Project Structure
 ```
-music-playlist-project/
+music-playlist-java/
 │-- src/
 │   ├── com/group6/Main/
 │   │   ├── ProjectMusic.java  # Main class with console-based menu
